@@ -1,0 +1,32 @@
+[
+  {
+    "name": "La Colombe Torrefaction",
+    "type": "Coffee",
+    "latitude": 40.7198924,
+    "longitude": -74.0038166
+  },
+  {
+    "name": "Kaffe 1668",
+    "type": "Coffee",
+    "latitude": 40.71513729999999,
+    "longitude": -74.0110881
+  },
+  {
+    "name": "Laughing Man Coffee & Tea",
+    "type": "Coffee",
+    "latitude": 40.7172728,
+    "longitude": -74.0101249
+  },
+  {
+    "name": "The Smile",
+    "type": "Coffee",
+    "latitude": 40.726631,
+    "longitude": -73.993559
+  },
+  {
+    "name": "Gotan",
+    "type": "Coffee",
+    "latitude": 40.7192553,
+    "longitude": -74.00660820000002
+  }
+]

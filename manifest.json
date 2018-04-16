@@ -1,0 +1,15 @@
+{
+  "short_name": "Neighborhood Map",
+  "name": "Neighborhood Map - React",
+  "icons": [
+    {
+      "src": "logo.png",
+      "sizes": "18x18",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#2d3436",
+  "background_color": "#ecf0f1"
+}
